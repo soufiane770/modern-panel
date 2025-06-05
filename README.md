@@ -119,7 +119,7 @@ start index.html
 <br><strong>CSS3</strong>
 </td>
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fontawesome/fontawesome-original.svg" width="50" height="50" alt="Font Awesome">
+<img src="/imgs/fontawesome.png" width="50" height="50" alt="Font Awesome">
 <br><strong>Font Awesome</strong>
 </td>
 <td align="center">
